@@ -1,4 +1,4 @@
-**CloudController** is a utility tool for macOS built using Swift Code and SwiftUI. This tool is used to emulate a virtual controller and then use keystrokes to control it. This tool includes a custom remapper, allowing users to change key binds to best suit the game they are playing. The setup is easy and intuitive for beginners to use. This allows users to play browser-based controller games with a keyboard instead. This will help users have more convenience and have an easier time gaming.
+🎮 **CloudController** is a utility tool for macOS built using Swift Code and SwiftUI. This tool is used to emulate a virtual controller and then use keystrokes to control it. This tool includes a custom remapper, allowing users to change key binds to best suit the game they are playing. The setup is easy and intuitive for beginners to use. This allows users to play browser-based controller games with a keyboard instead. This will help users have more convenience and have an easier time gaming.
 
 
 
@@ -19,7 +19,7 @@ Screenshots
 <img width="1470" height="925" alt="Screenshot 2026-06-16 at 6 57 05 PM" src="https://github.com/user-attachments/assets/f7c5d984-500c-4570-8f1f-9fcc06f4757b" />
 <img width="1470" height="805" alt="Screenshot 2026-06-16 at 6 58 09 PM" src="https://github.com/user-attachments/assets/a9238ed2-1bd5-464a-8874-bd9175260554" />
 
-Direct Download
+⭐️ Direct Download
 
 To access, follow these instructions,
 
@@ -36,7 +36,7 @@ To access, follow these instructions,
 
 //It is required to authenticate the app because I do not have a paid Apple Developer account.
 
-Using the app
+⭐️ Using the app
 
 Click on any control you want to remap and follow the on-screen instructions.
 Make sure to also follow the instructions in the setup tab
@@ -45,6 +45,6 @@ If the error persists but the controller works fine, this error can be safely ig
 If wanting to use this tool on other sites, just copy and paste the code from the setup page in the app into the console section on any other site.
 
 
-Help
+⭐️ Help
 
 Contact: arhaanshah126@gmail.com
