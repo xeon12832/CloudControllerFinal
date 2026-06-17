@@ -1,6 +1,6 @@
 | Platform | Supported Version | Architecture | Build Type |
 | :--- | :--- | :--- | :--- |
-| **macOS** | macOS 15 Sequoia | Apple Silicon | Native Swift/SwiftUI |
+| **macOS** | macOS 15 Sequoia and Above| Apple Silicon | Native Swift/SwiftUI |
 
 
 Screenshots
@@ -30,3 +30,4 @@ Click on any control you want to remap and follow the on-screen instructions.
 Make sure to also follow the instructions in the setup tab
 If a bridge error is present, just try the setup; the error can change after the connection is found.
 If the error persists but the controller works fine, this error can be safely ignored.
+If wanting to use this tool on other sites, just copy and paste the code from the setup page in the app into the console section on any other site.
